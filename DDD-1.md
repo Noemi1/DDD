@@ -54,9 +54,9 @@ Liste os termos principais da Linguagem Ubíqua do projeto. Explique brevemente 
 
 | **Termo**                    | **Descrição**                                                                                   |
 |------------------------------|-----------------------------------------------------------------------------------------------|
-| Ex.: Consulta                | Sessão médica entre paciente e médico.                                                       |
-| Ex.: Paciente                | Usuário que agenda e realiza consultas.                                                      |
-| Ex.: Receita                 | Prescrição médica gerada durante a consulta.                                                 |
+| Evento                | Quaisquer jogos, treinos, campeonatos e torneios esportivos realizados presencial em ambientes esportivos tais quais quadras, academias, etc.                                                       |
+| Participante                | Usuário que realiza buscas, inscrição e pagamento.                                                      |
+| Clube ou Organizador                 | Usuário que cadastra evento e valida inscrição e pagamentos recebidos.                                                 |
 
 ---
 
